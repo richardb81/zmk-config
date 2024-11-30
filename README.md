@@ -26,3 +26,10 @@ Preparing a user config for:
 config/cradio.keymap
 
 Left is the "master" side once the github action has run and firmware downloaded.
+
+
+# Load flash
+
+Go into boot loader mode. 
+UDS device appears on PC
+uf2, drop into "Drive"
